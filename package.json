@@ -1,0 +1,21 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "A [Rocketseat](https://rocketseat.com.br) está nos presenteando com mais um evento totalmente gratuito em que podemos iniciar ou avançar nossos conhecimentos em programação. Com um conteúdo muito didático e uma comunidade super ativa, esta é mais uma grande oportunidade para os estudantes de plantão como eu absorverem o que eles tem de melhor!",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogerioVM/nlw-ecoleta.git"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
