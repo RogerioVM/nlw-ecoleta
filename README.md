@@ -22,4 +22,6 @@ Na semana do meio ambiente, a idéia é de que seja uma plataforma onde uma empr
 
 ### Back
 
-* Ainda será anunciado, porém acredito que será com o Node. Ao término, atualizarei!
+* Node
+* Nunjuks
+* SQL
